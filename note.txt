@@ -1,0 +1,6 @@
+Why js is called loosly couple dyanimic type?
+=> 1. until the value is not assined variable it donot allocate in memeory
+   2. it donot have any data binding so we can convert data type from one to another.  eg.. integer to string or string to float/integer
+
+why json data type is known as universal data type?
+=> in every programming json datatye are read or manupulated or every launguage can read it.
