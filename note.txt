@@ -4,3 +4,19 @@ Why js is called loosly couple dyanimic type?
 
 why json data type is known as universal data type?
 => in every programming json datatye are read or manupulated or every launguage can read it.
+
+git init
+git remote add origin url 
+
+git add .
+git commit -m "message"
+
+git push origin main/master
+git pull origin main/master
+
+
+|-------------------aayush branch---------|
+git checkout -b "branch name"
+git status
+git branch
+|-------------------end aayush branch-----|
