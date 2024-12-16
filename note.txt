@@ -20,3 +20,7 @@ git checkout -b "branch name"
 git status
 git branch
 |-------------------end aayush branch-----|
+git merge gitbranch
+git branch -d gitbranch
+
+git config --global default.branch "branchname"

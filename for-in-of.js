@@ -5,6 +5,7 @@ const student = [
         phone:1234567890,
         address:"ktm" ,
         obtainedmarks: 300
+        
     },
     {
         name:"shyam" ,
